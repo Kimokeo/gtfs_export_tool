@@ -12,6 +12,4 @@ Example of Feed relationships
 
 ![Alt text](https://developers.google.com/transit/images/gtfs-feed-diagram.png)
 
-## Google Partnership account
-GTFS@ridecarta.com (emails forwarded to bryan@lincs.io)
 
