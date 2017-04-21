@@ -1,0 +1,1 @@
+[{"id":"id","name":"ID","type":"Integer","localized":false,"required":false,"disabled":false,"omitted":false},{"id":"fares","name":"Fares","type":"Array","localized":false,"required":false,"disabled":false,"omitted":false,"items":{"type":"Link","validations":[],"linkType":"Entry"}}]

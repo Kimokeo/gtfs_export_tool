@@ -1,0 +1,15 @@
+{
+  "name": "carta",
+  "version": "1.0.0",
+  "description": "gtfs tool for carta service exports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kimokeo",
+  "license": "ISC",
+  "dependencies": {
+    "contentful": "^3.5.0",
+    "http-hash-router": "^1.1.0"
+  }
+}
